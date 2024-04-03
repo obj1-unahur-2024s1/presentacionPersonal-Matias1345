@@ -1,35 +1,22 @@
 ![Logo UNAHUR](./assets/UNAHUR.png)
 
-Bienvenidos a
-# ProgramaciÛn con objetos I
+Bienvenidos a la presentaci√≥n de 
+# Mat√≠as L√≥pez
 
-En esta materia aprender·n sobre la famosa POO _(OOP en inglÈs)_, un paradigma que propone como base **objetos** que tienen un **estado** y **comportamiento**.
-Para ello usaremos como herramienta el lenguaje Wollok.
+Mi nombre es Mat√≠as, tengo 24 a√±os y actualmente estoy haciendo la _Tecnicatura Universitaria en Programaci√≥n_ en la UNAHUR desde febrero de 2023. Estudi√© en otra universidad la misma carrera hace un par de a√±os, en la  **UNGS**, pero termin√© cambi√°ndome de universidad debido a que no me termin√≥ de gustar, y tampoco me concenc√≠a la manera en la que ense√±aban en las clases.
 
 ```
-object programacionConObjetos { 
+object matiasLopez { 
     method saludar() { 
-        return  "Bienvenidxs!" 
+        return  "Bienvenidos a mi perfil!" 
     }
 }
 ```
 
-## Datos de la cursada :book:
-* Modalidad Mixta
-* Horario comisiÛn 1 **turno noche**: Martes 18 a 22hs y S·bado 10 a 12hs.
-* Horario comisiÛn 2 **turno maÒana**: MiÈrcoles 8 a 12hs y S·bado 10 a 12hs. 
-* Este cuatrimestre los profesores somos Gerardo Gonz·lez Tulian, Lucas Spigariol, Cristian Ciarallo y Hern·n Coniglio
-* Adem·s nos acompaÒan como colaboradores Valentino Chiappanni, Manuel NuÒez y Lucian Coniglio.
+## M√°s datos sobre m√≠ :book:
+* Termin√© la escuela en el a√±o 2017
+* En mis tiempos libres me gusta jugar videojuegos, mirar series o pel√≠culas.
+* Tambi√©n me gusta mirar videos, y navegar por las redes sociales. 
+* Mi pap√° me ense√±o el manejo de la computadora desde los 5-6 a√±os
+* Actualmente soy de San Miguel.
 
-## Links importantes :monocle_face:
-- [x] [P·gina principal](https://obj1-unahur.github.io/) de la materia (no olviden entrar seguido!) 
-- [x] [Cronograma](https://docs.google.com/spreadsheets/d/13rFU2mObqdFF_2Ocimey_oHJ0Ldv-Gx0S1N4cfHKO4Q/edit?usp=sharing) de clases.
-- [x] [Matricularse](https://discord.gg/tqyHtPt) y ver el canal de Discord.
-
-
-### Referencias Markdown 
-* [Wikipedia](https://es.wikipedia.org/wiki/Markdown)
-
-* [GuÌa R‡pida](https://greg.schueler.us/doc/markdown.txt) de la sintaxis _(en inglÈs)_
-
-* [Emojis!](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md) :sunglasses:
